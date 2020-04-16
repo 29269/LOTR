@@ -1,0 +1,28 @@
+{
+  "name": "lotr",
+  "version": "1.0.0",
+  "description": "een trianing met Bootsrap op een pagina voor Lord of the Rings ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/29269/demoLOTR.git"
+  },
+  "keywords": [
+    "Bootsrap",
+    "demo",
+    "LotR"
+  ],
+  "author": "Duneya Saleh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/29269/demoLOTR/issues"
+  },
+  "homepage": "https://github.com/29269/demoLOTR#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
