@@ -23,6 +23,7 @@
   "homepage": "https://github.com/29269/demoLOTR#readme",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": "^3.5.0"
+    "jquery": "^3.5.0",
+    "jquery-match-height": "^0.7.2"
   }
 }
